@@ -62,9 +62,7 @@ function App() {
             </nav>
 <hr />
        <Tables />   
-        <Add />
-        <Update />
-        <Delete />  
+       
         
               
         </div>

@@ -13,6 +13,7 @@ function Tables () {
                                     <th scope="col">Name</th>
                                     <th scope="col">Detail</th>
                                     
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -20,24 +21,36 @@ function Tables () {
                                     <th scope="row">1</th>
                                     <td>Umang</td>
                                     <td>FRONTEND DEV.</td>
+                                    <th scope="col"><button className="btn btn-success">View</button></th>
+                                    <th scope="col"><button className="btn btn-warning">Update</button></th>
+                                    <th scope="col"><button className="btn btn-danger">Delete</button></th>
                                     
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
                                     <td>KRUTIK</td>
                                     <td>BACKEND DEV.</td>
+                                    <th scope="col"><button className="btn btn-success">View</button></th>
+                                    <th scope="col"><button className="btn btn-warning">Update</button></th>
+                                    <th scope="col"><button className="btn btn-danger">Delete</button></th>
                                     
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
                                     <td>HARSH</td>
                                     <td>FRONTEND DEV.</td>
+                                    <th scope="col"><button className="btn btn-success">View</button></th>
+                                    <th scope="col"><button className="btn btn-warning">Update</button></th>
+                                    <th scope="col"><button className="btn btn-danger">Delete</button></th>
                                     
                                 </tr>
                                 <tr>
                                     <th scope="row">4</th>
                                     <td>ARATI</td>
                                     <td>DATABASE</td>
+                                    <th scope="col"><button className="btn btn-success">View</button></th>
+                                    <th scope="col"><button className="btn btn-warning">Update</button></th>
+                                    <th scope="col"><button className="btn btn-danger">Delete</button></th>
                                     
                                 </tr>
                             
